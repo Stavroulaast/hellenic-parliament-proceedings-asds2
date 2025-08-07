@@ -1,0 +1,23 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+
+# PDF export (your final submission)
+*.pdf
+
+# Large files / temp data
+/data/raw/*
+/data/tmp/*
+*.log
