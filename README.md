@@ -19,9 +19,9 @@ This project analyzes rhetorical style in Greek parliamentary speeches between 2
 📊 04_results-visualizations.ipynb
 
 📚 Sources & Acknowledgments
-	•	Dritsa (2018) – Speech Quality and Sentiment Analysis on the Hellenic Parliament Proceedings
-	•	Loukas et al. (2024) – GR-NLP Toolkit for Modern Greek
-	•	Rodriguez & Spirling (2022) – Word Embeddings in Political Science
-	•	Hjorth (2024) – The Rhetorical Cost of Governing
-	•	Widmann (2021) – Emotional Appeals in Populist Rhetoric
-	•	Greek-BERT – nlpaueb/bert-base-greek-uncased-v1
+- Dritsa (2018) – Speech Quality and Sentiment Analysis on the Hellenic Parliament Proceedings
+- Loukas et al. (2024) – GR-NLP Toolkit for Modern Greek
+- Rodriguez & Spirling (2022) – Word Embeddings in Political Science
+- Hjorth (2024) – The Rhetorical Cost of Governing
+- Widmann (2021) – Emotional Appeals in Populist Rhetoric
+- Greek-BERT – nlpaueb/bert-base-greek-uncased-v1
