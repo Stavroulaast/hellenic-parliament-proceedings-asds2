@@ -2,20 +2,20 @@
 
 This project analyzes rhetorical style in Greek parliamentary speeches between 2010–2020, with a focus on emotional tone, linguistic complexity, and semantic change over time. It adapts methods from computational social science to a non-English, highly inflected language — Greek — using custom preprocessing and representation techniques.
 
-### Data Handling, Cleaning & Preprocessing Pipeline
+**Data Handling, Cleaning & Preprocessing Pipeline**\
 📙 00_preprocessing.ipynb
 
-**Research Questions & Notebooks:**
-**RQ1:** How do government and opposition parties differ in their emotional rhetoric during political crises?
+**Research Questions & Notebooks:**\
+**RQ1: How do government and opposition parties differ in their emotional rhetoric during political crises?**\
 📒 01_lexiconbasedsentimentanalysis.ipynb
 
-**RQ2::** Do government officials use more complex language compared to other MPs?
+**RQ2:Do government officials use more complex language compared to other MPs?**\
 📒 02_smogindexanalysis.ipynb
 
-**RQ3:** Has the government’s rhetorical style shifted over time?
+**RQ3:Has the government’s rhetorical style shifted over time?**\
 📒 03_semanticdriftanalysis_visualizations.ipynb
 
-### Results visualized 
+**Results visualized**\
 📊 04_results-visualizations.ipynb
 
 📚 Sources & Acknowledgments
